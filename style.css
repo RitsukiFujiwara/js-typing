@@ -1,0 +1,31 @@
+body{
+    margin: 0 auto;
+    padding: 0 auto;
+    background-color: black;
+}
+form{
+    margin-top: 6.0em;
+    margin-right: auto;
+    margin-left: auto;
+    width: 25%;
+    color: rgb(146, 132, 55);
+}
+#start-button{  
+    padding: 10px 20px;
+    color: rgb(146, 132, 55);
+}
+
+#word{
+    margin-right: auto;
+    margin-left: auto;
+    width: 25%;
+    font-size: 30px;
+    color: rgb(146, 132, 55);
+}
+#type{
+    margin-right: auto;
+    margin-left: auto;
+    width: 25%;
+    font-size: 30px;
+    color: rgb(146, 132, 55);
+}
